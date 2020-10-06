@@ -20,4 +20,4 @@ zip ../protonmail-header-display.xpi *
 
 Open source, licensed under the [GNU General Public License v3.0 or later](https://spdx.org/licenses/GPL-3.0-or-later.html).
 
-Icons made by [DinosoftLabs](https://www.flaticon.com/authors/dinosoftlabs) from [Flaticon](https://www.flaticon.com/)), used under the [Flaticon License](https://www.freepikcompany.com/legal#nav-flaticon).
+Icons made by [DinosoftLabs](https://www.flaticon.com/authors/dinosoftlabs) from [Flaticon](https://www.flaticon.com/), used under the [Flaticon License](https://www.freepikcompany.com/legal#nav-flaticon).
