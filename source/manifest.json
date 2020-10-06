@@ -1,0 +1,30 @@
+{
+  "manifest_version": 2,
+  "name": "ProtonMail Headers",
+  "description": "Show ProtonMail X-Pm-* header encryption status for better Bridge integration.",
+  "version": "1.0",
+  "author": "Dan Q <x-pm@danq.me>",
+  "applications": {
+    "gecko": {
+      "id": "x-pm-headers@danq.me",
+      "strict_min_version": "66.0"
+    }
+  },
+  "permissions": [
+    "messagesRead"
+  ],
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  },
+  "message_display_action": {
+    "default_icon": "lock.svg",
+    "default_title": "X-PM"
+  },
+  "icons": {
+    "64": "lock.svg",
+    "32": "lock.svg",
+    "16": "lock.svg"
+  }
+}
